@@ -46,6 +46,17 @@ Before running this script, ensure you have the following:
 - The script waits for a few seconds between actions to ensure smooth execution.
 - It uses **PyAutoGUI**, so do not use your keyboard or mouse while the script is running to avoid interruptions.
 
+## About CrakCode
+
+At **CrakCode**, we help individuals crack job offers from top **product-based companies**. Our structured programs have successfully assisted candidates in securing positions at **Swiggy, BlinkIt, Khatabook, AstroTalk, BMW Techworks India, EasyDinner**, and many more. The success stories continue to grow!
+
+For more details, you can reach out to us on **WhatsApp: +917303778817** or visit our website:
+👉 [CrakCode Website](https://www.crakcode.in)
+
+### Connect with us on LinkedIn:
+- **Company Page:** [CrakCode LinkedIn](https://www.linkedin.com/company/crakcode/)
+- **Founder Profile:** [Tarun Mehta](https://www.linkedin.com/in/tarun-mehta-8541016b/)
+
 ## License
 
 This project is open-source. Feel free to modify and improve it as needed.
