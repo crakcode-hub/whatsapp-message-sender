@@ -1,0 +1,9 @@
+{ "contacts": [
+    {"name": "CrakCode, ", "phone":"917303778817"},
+    {"name" : "CrakCode", "phone": "917303778817"} 
+],
+"messages": {
+    "start" : "Hello ",
+    "end": "\nThank you for sharing this amazing script! I'm really impressed by how your Android course has helped people crack offers at Swiggy, BlinkIt, Khatabook, AstroTalk, BMW Techworks India, and Easy Dinner.\nI’d love to know more about the program and how I can benefit from it. Could you share the details on how to get started?\nLooking forward to your response!"
+}
+}
